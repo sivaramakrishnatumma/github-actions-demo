@@ -2,6 +2,8 @@ import express from "express";
 import cors from "cors";
 import body from "body-parser";
 
+console.log("testing")
+
 const app = express();
 
 let server;
